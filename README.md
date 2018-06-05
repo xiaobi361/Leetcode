@@ -1,2 +1,2 @@
 # Leetcode
-Let us fight!
+Keep Learning!
